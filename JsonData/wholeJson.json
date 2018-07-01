@@ -1,0 +1,345 @@
+[
+  {
+    "city": {
+      "id": 1283240,
+      "name": "Kathmandu",
+      "findname": "KATHMANDU",
+      "country": "NP",
+      "coord": {
+        "lon": 85.316666,
+        "lat": 27.716667
+      },
+      "zoom": 7
+    },
+    "time": 1489487389,
+    "main": {
+      "temp": 291.15,
+      "pressure": 1017,
+      "humidity": 45,
+      "temp_min": 291.15,
+      "temp_max": 291.15
+    },
+    "wind": {
+      "speed": 9.3,
+      "deg": 240,
+      "var_beg": 200,
+      "var_end": 270
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "proximity moderate rain",
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3632308,
+      "name": "Merida",
+      "findname": "MERIDA",
+      "country": "VE",
+      "coord": {
+        "lon": -71.144997,
+        "lat": 8.598333
+      },
+      "zoom": 8
+    },
+    "time": 1489487389,
+    "main": {
+      "temp": 283.584,
+      "temp_min": 283.584,
+      "temp_max": 283.584,
+      "pressure": 815.99,
+      "sea_level": 1024.28,
+      "grnd_level": 815.99,
+      "humidity": 100
+    },
+    "wind": {
+      "speed": 0.78,
+      "deg": 119.003
+    },
+    "clouds": {
+      "all": 20
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "rain": {
+      "3h": 0.43
+    }
+  },
+  {
+    "city": {
+      "id": 1280737,
+      "name": "Lhasa",
+      "findname": "LHASA",
+      "country": "CN",
+      "coord": {
+        "lon": 91.099998,
+        "lat": 29.65
+      },
+      "zoom": 6
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 274.484,
+      "temp_min": 274.484,
+      "temp_max": 274.484,
+      "pressure": 603.53,
+      "sea_level": 1014.44,
+      "grnd_level": 603.53,
+      "humidity": 20
+    },
+    "wind": {
+      "speed": 3.13,
+      "deg": 231.003
+    },
+    "clouds": {
+      "all": 64
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 745042,
+      "name": "İstanbul",
+      "findname": "İSTANBUL",
+      "country": "TR",
+      "coord": {
+        "lon": 28.983311,
+        "lat": 41.03508
+      },
+      "zoom": 1,
+      "langs": [
+        {
+          "bg": "Истанбул"
+        },
+        {
+          "el": "Ισταμπούλ"
+        },
+        {
+          "en": "Istanbul"
+        },
+        {
+          "es": "Provincia de Estambul"
+        },
+        {
+          "ja": "イスタンブール"
+        },
+        {
+          "link": "http://en.wikipedia.org/wiki/Istanbul_Province"
+        },
+        {
+          "no": "Istanbul"
+        },
+        {
+          "ru": "Стамбул"
+        },
+        {
+          "tr": "İstanbul"
+        },
+        {
+          "zh": "伊斯坦布尔"
+        }
+      ]
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 277.63,
+      "pressure": 1020,
+      "humidity": 86,
+      "temp_min": 277.15,
+      "temp_max": 278.15
+    },
+    "wind": {
+      "speed": 4.6,
+      "deg": 290,
+      "var_beg": 260,
+      "var_end": 320
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 906044,
+      "name": "Monze",
+      "findname": "MONZE",
+      "country": "ZM",
+      "coord": {
+        "lon": 27.48333,
+        "lat": -16.283331
+      },
+      "zoom": 8
+    },
+    "time": 1489487534,
+    "main": {
+      "temp": 298.564,
+      "temp_min": 298.564,
+      "temp_max": 298.564,
+      "pressure": 904.38,
+      "sea_level": 1023.76,
+      "grnd_level": 904.38,
+      "humidity": 72
+    },
+    "wind": {
+      "speed": 4.36,
+      "deg": 109.001
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 913613,
+      "name": "Kansanshi",
+      "findname": "KANSANSHI",
+      "country": "ZM",
+      "coord": {
+        "lon": 26.427271,
+        "lat": -12.09514
+      },
+      "zoom": 8
+    },
+    "time": 1489487534,
+    "main": {
+      "temp": 297.864,
+      "temp_min": 297.864,
+      "temp_max": 297.864,
+      "pressure": 869.37,
+      "sea_level": 1020.27,
+      "grnd_level": 869.37,
+      "humidity": 78
+    },
+    "wind": {
+      "speed": 3.91,
+      "deg": 108.001
+    },
+    "clouds": {
+      "all": 8
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "sky is clear",
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 890983,
+      "name": "Gokwe",
+      "findname": "GOKWE",
+      "country": "ZW",
+      "coord": {
+        "lon": 28.9349,
+        "lat": -18.20476
+      },
+      "zoom": 8
+    },
+    "time": 1489487535,
+    "main": {
+      "temp": 301.864,
+      "temp_min": 301.864,
+      "temp_max": 301.864,
+      "pressure": 918.57,
+      "sea_level": 1023.84,
+      "grnd_level": 918.57,
+      "humidity": 37
+    },
+    "wind": {
+      "speed": 3.86,
+      "deg": 82.5008
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 2648215,
+      "name": "Grangemouth",
+      "findname": "GRANGEMOUTH",
+      "country": "GB",
+      "coord": {
+        "lon": -3.72183,
+        "lat": 56.01141
+      },
+      "zoom": 13,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Grangemouth"
+        }
+      ]
+    },
+    "time": 1489487857,
+    "main": {
+      "temp": 284.16,
+      "pressure": 1021,
+      "humidity": 57,
+      "temp_min": 283.15,
+      "temp_max": 285.15
+    },
+    "wind": {
+      "speed": 10.8,
+      "deg": 260,
+      "gust": 15.9
+    },
+    "clouds": {
+      "all": 20
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+      }
+    ]
+  }
+]

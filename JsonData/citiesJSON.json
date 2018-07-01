@@ -1,0 +1,74 @@
+[
+{
+    "id": 1283240,
+    "name": "Kathmandu",
+    "country": "NP",
+    "coord": {
+      "lon": 85.316666,
+      "lat": 27.716667
+    }
+  },
+  {
+    "id": 3632308,
+    "name": "Merida",
+    "country": "VE",
+    "coord": {
+      "lon": -71.144997,
+      "lat": 8.598333
+    }
+  },
+  {
+    "id": 1280737,
+    "name": "Lhasa",
+    "country": "CN",
+    "coord": {
+      "lon": 91.099998,
+      "lat": 29.65
+    }
+  },
+  {
+    "id": 745042,
+    "name": "İstanbul",
+    "country": "TR",
+    "coord": {
+      "lon": 28.983311,
+      "lat": 41.03508
+    }
+  },
+  {
+    "id": 906044,
+    "name": "Monze",
+    "country": "ZM",
+    "coord": {
+      "lon": 27.48333,
+      "lat": -16.283331
+    }
+  },
+  {
+    "id": 913613,
+    "name": "Kansanshi",
+    "country": "ZM",
+    "coord": {
+      "lon": 26.427271,
+      "lat": -12.09514
+    }
+  },
+  {
+    "id": 890983,
+    "name": "Gokwe",
+    "country": "ZW",
+    "coord": {
+      "lon": 28.9349,
+      "lat": -18.20476
+    }
+  },
+  {
+    "id": 2648215,
+    "name": "Grangemouth",
+    "country": "GB",
+    "coord": {
+      "lon": -3.72183,
+      "lat": 56.01141
+    }
+  }
+]

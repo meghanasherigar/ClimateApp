@@ -1,0 +1,28 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<script src="libs/angularjs/angular.min.js"></script>
+<script src="app.js"></script>
+<script src="climatecontroller.js"></script>
+<script src="climateService.js"></script>
+<script src="climateFilter.js"></script>
+<script src="climateDirective.js"></script>
+</head>
+<body ng-app="myapp" ng-controller="climatecontroller">
+<input type="text" ng-model="climateSearch" style="display: inline-block;">
+<button style="display: inline-block;" ng-click="showCityData(climateSearch)">Search</button>
+<p>{{ans.city.coord.lon}}</p>
+<p>{{ans.city.name}}</p>
+<p>**************************************************</p>
+<div ng-repeat="city in cityData|filter:Search">
+	<p>{{city.name|formatFilter}}</p>
+	<p>{{city.id}}</p>
+	<p>{{city.country}}</p>
+</div>
+<input type="text" ng-model="Search" style="display: inline-block;">
+<climate-directive></climate-directive>
+
+</body>
+</html>
